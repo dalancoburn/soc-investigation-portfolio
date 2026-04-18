@@ -70,9 +70,9 @@ The investigations here demonstrate practical ability in:
 | 001 | | | | |
 | 002 | | | | |
 
-### BEC Investigations
+### Case Drops
 
-| # | Case Name | Affected Account | Date |
+| # | Case Name | Date |
 |---|---|---|---|
 | 001 | | | |
 
