@@ -86,7 +86,6 @@ The investigations here demonstrate practical ability in:
 | **EDR** | Microsoft Defender for Endpoint |
 | **Query Language** | KQL (Kusto Query Language) |
 | **Log Sources** | Microsoft 365 Unified Audit Logs, Sysmon, Windows Event Logs |
-| **Adversary Emulation** | MITRE Caldera |
 
 ---
 
