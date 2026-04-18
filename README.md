@@ -73,7 +73,7 @@ The investigations here demonstrate practical ability in:
 ### Case Drops
 
 | # | Case Name | Date |
-|---|---|---|---|
+|---|---|---|
 | 001 | | | |
 
 ---
